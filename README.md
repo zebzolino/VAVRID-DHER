@@ -26,3 +26,9 @@ pip install scapy colorama scapy psutil
 
 # Usage
 Run the script: ```python main.py```
+
+## What can someone use this for?
+A lot, main goal was to make sure I was downloading a Linux ISO since my WI-FI was down and I was waiting for my Wi-Fi to come back up.
+You could use this to diagnose, fix and etc.
+
+However, if you use this for something without prior permission, such as law enforcement then 🖕
